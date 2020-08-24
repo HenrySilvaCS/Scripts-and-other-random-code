@@ -83,3 +83,7 @@ class filter_tweets:
         print(f"FILE LENGHT: {len(self.lines)}")
         save_txt_func(self.lines,txt_name)
         print("FILE SAVED")
+
+        
+        
+## GIST LINK FOR EXAMPLES: https://gist.github.com/HenrySilvaCS/1e23b55ab02ce0ec11c933330c51a64f
